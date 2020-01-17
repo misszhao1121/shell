@@ -156,3 +156,4 @@ function CreateOracleUser(){
                 PROXY_USER=
                 PROXY_PWD=
                 eof
+                }
